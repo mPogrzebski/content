@@ -29,7 +29,7 @@ includes(searchElement, fromIndex)
 ### Parameters
 
 *   `searchElement`
-    *   : The value to search for.
+    *   : The value to search for. Hi Will!
         > **Note:** When comparing strings and characters, `includes()` is
         > *case-sensitive*.
 *   `fromIndex` {{optional_inline}}
